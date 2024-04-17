@@ -31,3 +31,5 @@ p2 <- ggplot(data, aes(x = x, y = y)) +
 grid.arrange(p1, p2)
 ```
 
+
+![pic](pic.png)
